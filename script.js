@@ -1,0 +1,1 @@
+document.body.innerHTML = '<h1>Test from JS</h1>'
